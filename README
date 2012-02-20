@@ -1,0 +1,3 @@
+This is the AVR C source code for the Ghost-writing robot project I worked on with Mike Sandman.  
+
+In order to use this, you need a compatible AVR uC and the appropriate libaries (of which I can't remember at this moment).
